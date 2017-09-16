@@ -4,18 +4,18 @@
     <color name="transparent">@*common:color/theme_transparent</color>
 
     <!-- User icon colors -->
-    <color name="user_icon_1">@*common:color/theme_primary</color>
-    <color name="user_icon_2">@*common:color/theme_primary</color>
-    <color name="user_icon_3">@*common:color/theme_primary</color>
-    <color name="user_icon_4">@*common:color/theme_primary</color>
-    <color name="user_icon_5">@*common:color/theme_primary</color>
-    <color name="user_icon_6">@*common:color/theme_primary</color>
-    <color name="user_icon_7">@*common:color/theme_primary</color>
-    <color name="user_icon_8">@*common:color/theme_primary</color>
+    <color name="user_icon_1">@*common:color/theme_highlighter</color>
+    <color name="user_icon_2">@*common:color/theme_highlighter</color>
+    <color name="user_icon_3">@*common:color/theme_highlighter</color>
+    <color name="user_icon_4">@*common:color/theme_highlighter</color>
+    <color name="user_icon_5">@*common:color/theme_highlighter</color>
+    <color name="user_icon_6">@*common:color/theme_highlighter</color>
+    <color name="user_icon_7">@*common:color/theme_highlighter</color>
+    <color name="user_icon_8">@*common:color/theme_highlighter</color>
 
     <!-- Primary & accent colors -->
-    <color name="material_deep_teal_200">@*common:color/theme_primary</color>
-    <color name="material_deep_teal_500">@*common:color/theme_primary</color>
+    <color name="material_deep_teal_200">@*common:color/theme_highlighter</color>
+    <color name="material_deep_teal_500">@*common:color/theme_highlighter</color>
     <color name="material_blue_grey_800">@*common:color/theme_dark</color>
     <color name="material_blue_grey_900">@*common:color/theme_dark</color>
     <color name="material_blue_grey_950">@*common:color/theme_dark</color>
@@ -63,16 +63,16 @@
     <color name="hint_foreground_material_dark">@color/bright_foreground_disabled_material_dark</color>
     <color name="hint_foreground_material_light">@color/bright_foreground_disabled_material_light</color>
 
-    <color name="notification_action_color_filter">@*common:color/theme_primary</color>
+    <color name="notification_action_color_filter">@*common:color/theme_highlighter</color>
     <color name="notification_media_primary_color">@color/primary_text_default_material_dark</color>
     <color name="notification_media_secondary_color">@color/primary_text_default_material_dark</color>
 
-    <drawable name="notification_template_icon_bg">@*common:color/theme_primary</drawable>
-    <drawable name="notification_template_icon_low_bg">@*common:color/theme_primary</drawable>
+    <drawable name="notification_template_icon_bg">@*common:color/theme_highlighter</drawable>
+    <drawable name="notification_template_icon_low_bg">@*common:color/theme_highlighter</drawable>
     <drawable name="notification_template_divider">#00000000</drawable>
 
-    <color name="notification_icon_bg_color">@*common:color/theme_primary</color>
-    <color name="system_notification_accent_color">@*common:color/theme_primary</color>
+    <color name="notification_icon_bg_color">@*common:color/theme_highlighter</color>
+    <color name="system_notification_accent_color">@*common:color/theme_highlighter</color>
 
     <color name="link_text_material_dark">@color/material_deep_teal_200</color>
     <color name="link_text_material_light">@color/material_deep_teal_500</color>
@@ -111,11 +111,11 @@
     <color name="datepicker_default_disabled_text_color_material_light">#80999999</color>
     <color name="datepicker_default_disabled_text_color_material_dark">#80999999</color>
 
-    <color name="datepicker_default_selected_text_color_material_light">@*common:color/theme_primary</color>
-    <color name="datepicker_default_selected_text_color_material_dark">@*common:color/theme_primary</color>
+    <color name="datepicker_default_selected_text_color_material_light">@*common:color/theme_highlighter</color>
+    <color name="datepicker_default_selected_text_color_material_dark">@*common:color/theme_highlighter</color>
 
-    <color name="datepicker_default_pressed_text_color_material_light">@*common:color/theme_primary</color>
-    <color name="datepicker_default_pressed_text_color_material_dark">@*common:color/theme_primary</color>
+    <color name="datepicker_default_pressed_text_color_material_light">@*common:color/theme_highlighter</color>
+    <color name="datepicker_default_pressed_text_color_material_dark">@*common:color/theme_highlighter</color>
 
     <color name="datepicker_default_circle_background_color_material_light">@color/material_deep_teal_500</color>
     <color name="datepicker_default_circle_background_color_material_dark">@color/material_deep_teal_200</color>
